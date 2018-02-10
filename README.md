@@ -6,6 +6,7 @@ I. Features
 II. Instructions
 
 =============================================================
+
 I. Features
 
 1.	This program gives a message indicating a set format to compile and run the code at the command line (e.g., script IP port#). If the wrong format is entered, it gives a statement about what to enter for the correct format in order to connect with the server.  
@@ -25,6 +26,7 @@ I. Features
 8.	If a client signs out of the chat room for any reason, a message appears on the server and other client sides stating which client has left the chat room. 
 
 =============================================================
+
 
 II. Instructions
 
