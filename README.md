@@ -1,7 +1,6 @@
 # PythonChatroom_Land
-NOTE: This program has been modified from the Python code found at https://www.geeksforgeeks.org/simple-chat-room-using-python/. In what follows I discuss the features that have been added, which also includes further instructions on how to use the program, in light of the additional features. 
 
-There are two sections to this overview: 
+There are two sections to this README: 
 I. Features
 II. Instructions
 
