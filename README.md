@@ -6,7 +6,7 @@ II. Instructions
 
 =============================================================
 
-NOTE: This program was for a class project, so it had certain requirements. Also, I have the left the variables that are to holds the words/strings empty so that the user can choose what to include, so for the program to work correctly, words will have to be entered in that section of the code. 
+NOTE: This program was for a class project, so it had certain requirements (see statements below for more details). I have the left the variables that are to hold the words/strings empty so that the user can choose what to include. For the program to work correctly, words will have to be entered in that section of the code. 
 
 I. Features
 
