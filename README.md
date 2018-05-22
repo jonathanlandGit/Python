@@ -5,7 +5,8 @@ I. Features
 II. Instructions
 
 =============================================================
-*This program was for a class projects, so it had certain requirements
+
+NOTE: This program was for a class projects, so it had certain requirements.
 
 I. Features
 
