@@ -58,8 +58,10 @@ def clientthread(conn, addr):
             if message:
                 # two levels of inappropriate words - obviously these can be changed or put
                 # put within a text file to be read
-                badWords = ("stupid", "idiot", "scalawag")
-                worseWords = ("snoot", "sycophant", "knave")
+                
+                ########Include the words/strings in the following variables for this to work##########
+                badWords = (" ", " ", " ")
+                worseWords = (" ", " ", " ")
                 
                 #w need to parse each word as it is streamed
                 input_words = message.lower().split()
