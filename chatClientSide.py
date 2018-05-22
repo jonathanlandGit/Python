@@ -38,7 +38,7 @@ while True:
             #this is why this is included here
             message = sys.stdin.readline()
             
-            //////////include word or strings in the following variables//////////////
+            ########Include the words/strings in the following variables for this to work##########
             badWords = (" ", " ", " ")
             worseWords = (" ", " ", " ")
             
