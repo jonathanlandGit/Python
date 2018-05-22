@@ -38,8 +38,9 @@ while True:
             #this is why this is included here
             message = sys.stdin.readline()
             
-            badWords = ("scamp", "klutz", "scalawag")
-            worseWords = ("snoot", "sycophant", "knave")
+            //include words/strings here
+            badWords = (" ", " ", " ")
+            worseWords = (" ", " ", " ")
             
             input_words = message.lower().split()
 
