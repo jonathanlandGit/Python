@@ -1,4 +1,4 @@
-# PythonChatroom_Land
+# Instant Messaging Application
 
 There are two sections to this README: 
 I. Features
